@@ -1,0 +1,151 @@
+.main-inner {
+	width: 960px;
+	background-color: #fff;
+	box-shadow: 0 0 2px 2px #dad0c6;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.main-left {
+	width: 410px;
+	padding-left: 55px;
+	padding-top: 44px;
+	float: left;
+}
+.main-left h2 {
+	font-size: 28px;
+	color: #768263;
+}
+.main-left li {
+	line-height: 50px;
+	font-size: 14px;
+}
+.main-left li p {
+	float: left;
+}
+.yanzm {
+	margin-left: 63px;
+	margin-right: 10px;
+}
+.huanyizu {
+	font-size: 12px;
+}
+.huanyizu span  {
+	font-size: 12px;
+	color: #87b32e;
+}
+.main-left li input {
+	display: block;
+	margin-top: 8px;
+	margin-right: 56px;
+	margin-left: 14px;
+	line-height: 30px;
+	width: 225px;
+	border-radius: 5px;
+	border: 1px solid #cfcfcf;
+	float: right;
+}
+.main-left li label {
+	display: block;
+	float: right;
+}
+.main-left li>span {
+	display: block;
+	float: right;
+}
+.yanztu {
+	width: 308px;
+	margin-left: 128px;
+	border: 1px solid #999999;
+	padding: 2px;
+}
+.yanztu img {
+	display: block;
+	float: left;
+	margin-left: 2px;
+}
+.xieyi {
+	margin-left: 123px;
+}
+.xieyi input {
+	display: block;
+	margin-top: 21px;
+	float: left;
+}
+.xieyi p {
+	float: left;
+	font-size: 12px;
+	color: #a9a8a8;
+	line-height: 54px;
+}
+.dengluan {
+	display: block;
+	float: left;
+	width: 80px;
+	line-height: 30px;
+	text-align: center;
+	font-size: 14px;
+	color: #ffffff;
+	background-color: #87bd34;
+	border-radius: 5px;
+	margin-left: 123px;
+}
+.wangji {
+	display: block;
+	float: left;
+	margin-left: 12px;
+	font-size: 12px;
+	color: #666666;
+	line-height: 30px;
+}
+.huanfangshi {
+	margin-left: 123px;
+	font-size: 12px;
+	color: #999999;
+	margin-top: 35px;
+	margin-bottom: 15px;
+}
+.qitawang {
+	margin-left: 48px;
+}
+.main-right {
+	float: left;
+	width: 220px;
+	height: 480px;
+	margin-left: 238px;
+	border-left: 1px solid #e5e5e5;
+	margin-top: 40px;
+	padding-top: 8px;
+	padding-left: 32px;
+}
+.main-right h2 {
+	font-size: 24px;
+	margin-bottom: 38px;
+	color: #768263;
+}
+.main-right p {
+	font-size: 12px;
+	margin-bottom: 16px;
+	color: #999999;
+}
+.qszhuc {
+	display: block;
+	width: 130px;
+	background-color: #ff5783;
+	line-height: 35px;
+	text-align: center;
+	font-size: 15px;
+	color: #ffffff;
+	border-radius: 5px;
+	margin-bottom: 70px;
+	margin-left: 16px;
+}
+.footer p {
+	margin: 0 auto;
+	text-align: center;
+	line-height: 72px;
+	font-size: 13px;
+	color: #666666;
+}
+.footer {
+	padding-bottom: 150px;
+}
